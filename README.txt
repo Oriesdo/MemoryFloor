@@ -1,3 +1,8 @@
+THE DOWNLOADED 3D MODELS ARE NOT IN THE ZIP FILE DUE TO THEIR LARGE SIZE
+THE ASSETS FOLDER WITH THE DOWNLOADED 3D MODELS CAN BE FOUND AT THIS LINK: https://drive.google.com/file/d/1EG9ltyCWnsE67w5KHKQXC6eSgx3jGLoA/view?usp=sharing
+WE HAVE INCLUDED A PICTURE OF THE CURRENT DISPLAY OF OUR GAME IN THIS REPOSITORY
+
+
 We have created a scenario with a 4x4 grid.
 A cobblestone floor. 
 ground: https://sketchfab.com/3d-models/cobblestone-ground-highpoly-903c68a26d0e470bb4443acf441049ba
@@ -15,4 +20,3 @@ air jordan: https://sketchfab.com/3d-models/air-jordan-1-a4b434181fbb48008ad4607
 Audios for different stages, one for the scenario when the balls are appearing and disappearing and other when the players have to remember where the selected ball was and go to the correctly grid.
 1st: https://freesound.org/people/Bertrof/sounds/131659/
 2nd: https://joeybabcock.me/blog/music/kahoot-music-mp3s/ 
-
